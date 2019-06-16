@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+<head><title>FEEL THE FIZZ</title></head>
+<font>
+<body background="tumblr_nm90nlrrzb1s52d1io1_1280.gif"><font color="red"> 
+<table  align=left >
+ <tr>
+     <td><h2><a href="#his">HISTORY<h2></a><td>
+	 <td><h2><a href="#pro">PRODUCT<h2></a><td>
+	 <td><h2><a href="#profile">PROFILE<h2></a><td>
+	 
+  </tr>
+</table>  <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /> <br />  <br />  <br />  <br />  <br />  <br />  <br />  <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<fieldset style="text-align:right";>
+<p><h1><a name="his"></a>APPY FIZZ <br />HISTORY </h1>
+
+<h3>Appy Fizz is the champagne of fruit drinks. <br />In 2005, Appy fizz was launched as India's <br />first sparkling apple juice drink. Bubbly, <br />sweet and tangy, with a light refreshing taste,<br /> Appy fizz quickly became a favorite amongst <br />youth as a healthier alternative to colas.</h3></p>
+<br /><br /><br /></p>
+</fieldset>
+<img src="" width="0">
+<p><a name="pro">
+<img src="product.jpg" /></p>
+<fieldset style="text-align:center"; width="200%">
+<legend>FORM DETAILS<legend>
+<p><a name="profile"></a><h1>PROFILE<h1>
+<br /><br /><br />
+Username:
+<input type="text"name="username" placeholder="Enter name" maxlength="30">
+<br /><br /><br />
+Password:
+<input type="Password" name="password" placeholder="Enter password" maxlength="30"	required="required" />
+<br /><br /><br /><br />
+What do you think?
+<textarea name="comments" cols="20" rows ="4">Enter your comments....</textarea>
+<br /><br /><br />
+Please select options:
+<input type="radio" name=music" value="rock" checked="checked" />Rock
+<input type="radio" name=music" value="pop"  />po
+<input type="radio" name=music" value="jazz"  />jazz
+<br /><br /><br />
+Please select options:
+<input type="checkbox" name=music" value="good"  />Good
+<input type="checkbox" name=music" value="best"  />Best
+<input type="checkbox" name=music" value="excellent" checked="checked" />Excellent
+<br /><br /><br />
+Select down music?
+<select name="devices">
+<option value="rock">Rock</option>
+<option value="pop">Pop</option>
+<option value="jazz">Jazz</option>
+</select>
+<br /><br /><br />
+Upload:
+<input tpye="file" name="user"/><br />
+<input type="submit" value="upload" />
+<br /><br /><br />
+Submit:
+<input type="text" name="email"/>
+<input type="submit"name="subscribe" value="subscribe"/>
+<br /><br /><br />
+
+
+</p>
+</fieldset>
+</body>
+</font> 
+</html>
